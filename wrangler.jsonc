@@ -1,5 +1,5 @@
 {
-  "name": "base44-app",
+  "name": "nextest",
   "compatibility_date": "2026-01-21",
   "assets": {
     "directory": "./dist"
